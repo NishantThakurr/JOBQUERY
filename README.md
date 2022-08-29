@@ -1,5 +1,7 @@
 # JOBQUERY
 
+
+
 Ever wondered about Data Science jobs in India?Well here is your solution.
 
 An interactive Power BI dashboard which provides indepth analysis of Data Science jobs in India.It takes job role and type of job you want as an input and delivers various variables such as top skills,companies/locations with most available openings and various levels of experience.
@@ -48,6 +50,8 @@ The two xlsx files were then loaded into PowerBI and various process were done t
 
 
 ## Demo
+You can directly access the dashboard here.
+https://www.novypro.com/project/jobqueryindiadatascience
 
 https://user-images.githubusercontent.com/102639991/187210384-62ec4c33-4c6e-43a6-a9fd-00fa73285aa8.mp4
 
