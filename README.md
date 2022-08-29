@@ -22,10 +22,20 @@ https://www.kaggle.com/datasets/anandhuh/data-science-jobs-in-india
 
 •Python pandas and numpy were mainly used to explore the data with a little help of our friend Excel.
 There were several same job roles written in different format.So by creating a function they were grouped into most relevant job roles.
+![image](https://user-images.githubusercontent.com/102639991/187209572-c5902251-9d4d-4626-ae46-75c7571d06ae.png)
+
 •Location column was also cleaned.
+![image](https://user-images.githubusercontent.com/102639991/187209950-eea210e3-a399-43fb-a122-74b5123a4a4c.png)
 •A separate column was generated for categorizing the type of job into remote or onsite
+
 •Many irrelevant values was also removed from Job experience column and min experience required column was fetched.
+
+
+![image](https://user-images.githubusercontent.com/102639991/187210089-f937158c-874a-4182-8e82-9ee6ed5158bf.png)
+
 •Working with skills column was tricky had to create a new dataframe using FreqDist.
+
+![image](https://user-images.githubusercontent.com/102639991/187210231-9e0b4354-9029-4764-8dd3-f8618116c5d5.png)
 •The two dataframe were then saved into two separate xlsx files
 
 3)Working with PowerBI
@@ -39,7 +49,7 @@ The two xlsx files were then loaded into PowerBI and various process were done t
 
 ## Demo
 
-https://user-images.githubusercontent.com/102639991/187198343-f700a453-71c0-4e7e-81e7-6f6a41391b0c.mp4
+https://user-images.githubusercontent.com/102639991/187210384-62ec4c33-4c6e-43a6-a9fd-00fa73285aa8.mp4
 
 
 ## Screenshots
