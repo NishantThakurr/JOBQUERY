@@ -12,6 +12,19 @@ An interactive Power BI dashboard which provides indepth analysis of Data Scienc
 ## 🚀 About Me
 I am Nishant Thakur who is passionate about data and constantly learning about the various field of data science.
 
+## Demo
+You can directly access the dashboard here.
+https://www.novypro.com/project/jobqueryindiadatascience
+
+https://user-images.githubusercontent.com/102639991/187210384-62ec4c33-4c6e-43a6-a9fd-00fa73285aa8.mp4
+
+
+## Screenshots
+
+![Screenshot (330)](https://user-images.githubusercontent.com/102639991/186885660-3735f233-3177-4631-8b4d-cd99e700f900.png)
+![Screenshot (326)](https://user-images.githubusercontent.com/102639991/186885664-9d49ee8a-9fa8-492b-bed5-9fe8a1f9bdfb.png)
+![Screenshot (328)](https://user-images.githubusercontent.com/102639991/186885668-ea4d0c98-f432-4285-96b9-716e6d40ff95.png)
+
 
 ## Roadmap
 
@@ -49,18 +62,7 @@ The two xlsx files were then loaded into PowerBI and various process were done t
 •Dashboard Tiles
 
 
-## Demo
-You can directly access the dashboard here.
-https://www.novypro.com/project/jobqueryindiadatascience
 
-https://user-images.githubusercontent.com/102639991/187210384-62ec4c33-4c6e-43a6-a9fd-00fa73285aa8.mp4
-
-
-## Screenshots
-
-![Screenshot (330)](https://user-images.githubusercontent.com/102639991/186885660-3735f233-3177-4631-8b4d-cd99e700f900.png)
-![Screenshot (326)](https://user-images.githubusercontent.com/102639991/186885664-9d49ee8a-9fa8-492b-bed5-9fe8a1f9bdfb.png)
-![Screenshot (328)](https://user-images.githubusercontent.com/102639991/186885668-ea4d0c98-f432-4285-96b9-716e6d40ff95.png)
 
 
 
